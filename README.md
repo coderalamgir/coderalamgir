@@ -1,5 +1,5 @@
 
-![](https://pbs.twimg.com/profile_banners/2417267923/1691758329/600x200)
+![](https://pbs.twimg.com/profile_banners/2417267923/1691758329/2000*718)
 
 
 # Hi there 👋, My name is Alamgir
