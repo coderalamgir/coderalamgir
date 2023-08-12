@@ -14,7 +14,7 @@
 <h2 align="left">Skills:</h2>
 <li>HTML</li>
 <li>CSS</li>
-<li>JS</li>
+<li>JavaScript</li>
 <li>Photoshop</li>
 <li>Illustrator</li>
 <li>Figma</li>
