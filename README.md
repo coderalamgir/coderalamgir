@@ -7,6 +7,8 @@
 
 <h3 align="center">I am a web developer from Bangladesh.</h3>
 
+<img align="right" alt="alamgir" width="400" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=DrIIfudtfqKgig&pid=ImgRaw&r=0"/>
+
 
 **********************************************************************
 
@@ -21,10 +23,10 @@
 
 **********************************************************************
 
-- 🔭 I’m currently working on for Myself 
-- 🌱 I’m currently learning JavaScript, PHP. 
-- 👯 I’m looking to collaborate on Github. 
-- 💬 Ask me about Web developement. 
+- 🔭 I’m currently working on for ** Myself. ** 
+- 🌱 I’m currently learning ** JavaScript, PHP. ** 
+- 👯 I’m looking to collaborate on ** Github. **
+- 💬 Ask me about ** Web developement. **
 
 ************************************************************************
 <h3 align="left">Connect with me:</h3>
