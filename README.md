@@ -23,10 +23,10 @@
 
 **********************************************************************
 
-- 🔭 I’m currently working on for ** Myself. ** 
-- 🌱 I’m currently learning ** JavaScript, PHP. ** 
-- 👯 I’m looking to collaborate on ** Github. **
-- 💬 Ask me about ** Web developement. **
+- 🔭 I’m currently working on for  **Myself.** 
+- 🌱 I’m currently learning  **JavaScript, PHP.** 
+- 👯 I’m looking to collaborate on  **Github.**
+- 💬 Ask me about  **Web developement.**
 
 ************************************************************************
 <h3 align="left">Connect with me:</h3>
