@@ -1,5 +1,4 @@
-
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/2417267923/1691802496/600x200)
+![Logo](https://github.com/coderalamgir/coderalamgir/blob/main/Github_CoverPhoto_alamgir.png)
 
 *************************************************************************************************************
 
