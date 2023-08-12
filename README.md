@@ -7,7 +7,10 @@
 ## I am a web developer.
 Hello, I am Alamgir.I am web developer. My goal is to provide 100% perfect work.
 
+**********************************************************************
+
 Skills: HTML / CSS / JS / Photoshop/ Illustrator / Figma 
+**********************************************************************
 
 - 🔭 I’m currently working on for Myself 
 - 🌱 I’m currently learning JavaScript, PHP. 
@@ -40,11 +43,17 @@ Skills: HTML / CSS / JS / Photoshop/ Illustrator / Figma
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderalamgir)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+**********************************************************************
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderalamgir&show_icons=true)  
 
+**********************************************************************
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coderalamgir)  
+**********************************************************************
 
 ![GitHub metrics](https://metrics.lecoq.io/coderalamgir)  
+**********************************************************************
 ![Profile views](https://gpvc.arturio.dev/coderalamgir)  
 *********************************************
 
