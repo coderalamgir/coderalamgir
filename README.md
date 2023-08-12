@@ -1,8 +1,6 @@
 ![I am a web developer.](https://pbs.twimg.com/profile_banners/2417267923/1691758329/600x200)
 # Hi there 👋, My name is Alamgir
 #### I am a web developer.
-![<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.com/coderalamgir/coderalamgir/blob/main/Twitter_CoverPhoto_alamgir%20.png)' alt='alamgir_akib' height='40'>](https://github.com/coderalamgir) 
-
 Hello, I am Alamgir.I am web developer. My goal is to provide 100% perfect work.
 
 Skills: HTML / CSS / JS / Photoshop/ Illustrator / Figma 
