@@ -3,14 +3,22 @@
 
 *************************************************************************************************************
 
-# Hi there 👋, My name is Alamgir
+<h1 align="center">Hi 👋, My name is Alamgir</h1>
 
-## I am a web developer.
-Hello, I am Alamgir.I am web developer. My goal is to provide 100% perfect work.
+<h3 align="center">I am a web developer from Bangladesh.</h3>
+
 
 **********************************************************************
 
-Skills: HTML / CSS / JS / Photoshop/ Illustrator / Figma 
+
+<h2 align="left">Skills:</h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>JS</li>
+<li>Photoshop</li>
+<li>Illustrator</li>
+<li>Figma</li>
+
 **********************************************************************
 
 - 🔭 I’m currently working on for Myself 
